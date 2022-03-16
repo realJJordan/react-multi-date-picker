@@ -1,6 +1,6 @@
 {
   "name": "react-multi-date-picker",
-  "version": "1.0",
+  "version": "3.3.0",
   "description": "Polish fork of https://github.com/shahabyazdi/react-multi-date-picker",
   "main": "./build/index.js",
   "types": "index.d.ts",

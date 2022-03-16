@@ -26,7 +26,7 @@ export default function DatePanel({
   formatFunction,
   ...props
 }) {
-  let headers = { en: "Dates", fa: "تاریخ ها", ar: "تواریخ", hi: "खजूर" },
+  let headers = { en: "Dates",pl: "Daty", fa: "تاریخ ها", ar: "تواریخ", hi: "खजूर" },
     dates = [],
     {
       multiple,

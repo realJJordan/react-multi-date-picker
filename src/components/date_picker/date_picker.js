@@ -445,6 +445,7 @@ function DatePicker(
 
     let actions = {
       en: { OK: "OK", CANCEL: "CANCEL" },
+      pl: { OK: "Ok", CANCEL: "Anuluj" },
       fa: { OK: "تأیید", CANCEL: "لغو" },
       ar: { OK: "تأكيد", CANCEL: "الغاء" },
       hi: { OK: "पुष्टि", CANCEL: "रद्द करें" },

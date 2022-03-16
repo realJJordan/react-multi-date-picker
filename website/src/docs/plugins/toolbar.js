@@ -51,12 +51,21 @@ export default function Doc({ translate, language, otherProps, localeImport }) {
             <td>names</td>
             <td>Object</td>
             <td>
-              en:
+            en:
               <pre className="language-jsx">
                 <code>{`{ 
   today: "Today", 
   deselect: "Deselect", 
   close: "Close" 
+}`}</code>
+              </pre>
+              <br />
+              pl:
+              <pre className="language-jsx">
+                <code>{`{ 
+  today: "Dzisiaj", 
+  deselect: "Odznacz", 
+  close: "Zamknij" 
 }`}</code>
               </pre>
               <br />

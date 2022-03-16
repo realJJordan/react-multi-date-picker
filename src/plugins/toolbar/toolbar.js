@@ -26,6 +26,7 @@ export default function Toolbar({
     name = {
       fa: { today: "امروز", deselect: "لغو", close: "بستن" },
       en: { today: "Today", deselect: "Deselect", close: "Close" },
+      pl: { today: "Dzisiaj", deselect: "Odznacz", close: "Zamknij" },
     },
     localeName = names || name[getLocaleName(locale)] || name.en,
     classNames = ["rmdp-toolbar", position, getBorderClass(position, nodes)],

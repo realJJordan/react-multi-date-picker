@@ -29,6 +29,14 @@ export default function Footer({
         close: "Close",
         separator: "-",
       },
+      pl: {
+        selectedDates: "Wybrane daty" + (horizontal ? ":" : ""),
+        from: "Od:",
+        to: "Do:",
+        selectDate: "Wybierz date",
+        close: "Zamknij",
+        separator: "-",
+      },
       fa: {
         selectedDates: "تاریخ انتخابی شما" + (horizontal ? ":" : ""),
         from: "از:",

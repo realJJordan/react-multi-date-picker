@@ -1,5 +1,7 @@
 /node_modules
-/build
+/screenshot
+/test
+/website
 /coverage
 /website/node_modules
 /website/public

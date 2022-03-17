@@ -564,7 +564,6 @@ declare module "react-multi-date-picker/plugins/settings" {
       arabic: string;
       indian: string;
       en: string;
-      pl: string;
       fa: string;
       ar: string;
       hi: string;
@@ -585,7 +584,6 @@ declare module "react-multi-date-picker/plugins/settings" {
       arabic: string;
       indian: string;
       en: string;
-      pl: string;
       fa: string;
       ar: string;
       hi: string;
